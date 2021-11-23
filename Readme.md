@@ -1,9 +1,3 @@
-# expo-template-native-base
+# expo-bluetooth
 
-The official NativeBase template for [Expo](https://docs.expo.io/)
-
-## Usage
-
-```sh
-expo init my-app --template expo-template-native-base
-```
+* https://github.com/expo/config-plugins/tree/master/packages/react-native-ble-plx
